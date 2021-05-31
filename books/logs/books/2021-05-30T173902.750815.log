@@ -1,0 +1,95 @@
+2021-05-30 17:39:08 [scrapy] DEBUG: Crawled (200) <GET https://booksmandala.com/search?name=jiwan&page=1> (referer: None)
+2021-05-30 17:39:08 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=1>
+{'Title': ['/books/kosh-jiwan-pachhiko-jiwan'], 'Author': ['Karna Shakya'], 'Price': ['NPR.498']}
+2021-05-30 17:39:08 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=1>
+{'Title': ['/books/jiwan-kya-hai'], 'Author': ['Osho'], 'Price': ['NPR.312']}
+2021-05-30 17:39:08 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=1>
+{'Title': ['/books/kabi-bhanubhaktako-jiwancharitra'], 'Author': ['Motiram bhatta'], 'Price': ['NPR.125']}
+2021-05-30 17:39:08 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=1>
+{'Title': ['/books/jiwan-manthan'], 'Author': ['Dr yogi bibekanandha'], 'Price': ['NPR.150']}
+2021-05-30 17:39:08 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=1>
+{'Title': ['/books/kaiyou-jiwan-kaiyou-debatma'], 'Author': ['Brayan Bij'], 'Price': ['NPR.350']}
+2021-05-30 17:39:08 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=1>
+{'Title': ['/books/जीवन-कतिपय-jiwan-katipaya'], 'Author': ['Janakraj Sapkota, जनकराज सापकोटा'], 'Price': ['NPR.250']}
+2021-05-30 17:39:08 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=1>
+{'Title': ['/books/rastiya-jiwan-ma-shana-pradhan'], 'Author': ['Govinda Gyawali '], 'Price': ['NPR.175']}
+2021-05-30 17:39:08 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=1>
+{'Title': ['/books/antarikshako-khoj-jiwanko-khoj'], 'Author': ['Achyut Koirala'], 'Price': ['NPR.175']}
+2021-05-30 17:39:08 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=1>
+{'Title': ['/books/bir-saputako-jiwani'], 'Author': ['S. P. Shrestha'], 'Price': ['NPR.90']}
+2021-05-30 17:39:08 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=1>
+{'Title': ['/books/byasta-jiwan-me-iswor-ki-khoj'], 'Author': ['Osho'], 'Price': ['NPR.280']}
+2021-05-30 17:39:10 [scrapy] DEBUG: Crawled (200) <GET https://booksmandala.com/search?name=jiwan&page=2> (referer: https://booksmandala.com/search?name=jiwan&page=1)
+2021-05-30 17:39:10 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=2>
+{'Title': ['/books/balapan-jiwanko'], 'Author': ['Ramesh Shrestha'], 'Price': ['NPR.350']}
+2021-05-30 17:39:10 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=2>
+{'Title': ['/books/grihasti-jiwan-garshan'], 'Author': ['Jay Gurudeb'], 'Price': ['NPR.300']}
+2021-05-30 17:39:10 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=2>
+{'Title': ['/books/santa-jiwangatha'], 'Author': ['S.P Shrestha'], 'Price': ['NPR.395']}
+2021-05-30 17:39:10 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=2>
+{'Title': ['/books/manis-ko-swarnim-bhabishya-ra-sahaj-jiwanko-sutra'], 'Author': ['Osho Translate by Binita Poudel'], 'Price': ['NPR.350']}
+2021-05-30 17:39:10 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=2>
+{'Title': ['/books/gautam-buddha-jiwani-ra-darshan'], 'Author': ['Roshan Dahal'], 'Price': ['NPR.450']}
+2021-05-30 17:39:10 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=2>
+{'Title': ['/books/desh-kina-banena-1'], 'Author': ['Jiwan prashat Rai'], 'Price': ['NPR.375']}
+2021-05-30 17:39:10 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=2>
+{'Title': ['/books/yasto-hosh-jiwan-shaili'], 'Author': ['Da. raju Adhikari'], 'Price': ['NPR.300']}
+2021-05-30 17:39:10 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=2>
+{'Title': ['/books/jiwan-batai-jiwan-aauchha'], 'Author': [], 'Price': ['NPR.150']}
+2021-05-30 17:39:10 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=2>
+{'Title': ['/books/maharaja-chandra-shamsherko-jiwani-the-life-of-maharaja-chandra-shamsher'], 'Author': ['Prakash A. Raj'], 'Price': ['NPR.150']}
+2021-05-30 17:39:10 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=2>
+{'Title': ['/books/jiwan-kaha-chha'], 'Author': ['Osho'], 'Price': ['NPR.335']}
+2021-05-30 17:39:11 [scrapy] DEBUG: Crawled (200) <GET https://booksmandala.com/search?name=jiwan&page=3> (referer: https://booksmandala.com/search?name=jiwan&page=2)
+2021-05-30 17:39:11 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=3>
+{'Title': ['/books/jiwan-badalne-lok-kathaharu'], 'Author': ['Bishnu Sharma'], 'Price': ['NPR.225']}
+2021-05-30 17:39:11 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=3>
+{'Title': ['/books/sadguru-jiwani-ra-darshan'], 'Author': ['Anupam Pokharel'], 'Price': ['NPR.375']}
+2021-05-30 17:39:11 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=3>
+{'Title': ['/books/bishow-hallauneharuko-gopya-jiwani'], 'Author': ['Binita Poudel'], 'Price': ['NPR.450']}
+2021-05-30 17:39:11 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=3>
+{'Title': ['/books/jangabahadurko-jiwanyatra'], 'Author': ['Rambahadur pahadi'], 'Price': ['NPR.425']}
+2021-05-30 17:39:11 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=3>
+{'Title': ['/books/jiwan-manthan-1'], 'Author': ['Dr Yogi Bikasananda'], 'Price': ['NPR.100']}
+2021-05-30 17:39:11 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=3>
+{'Title': ['/books/steve-jobs-jiwani'], 'Author': ['Binita Poudel'], 'Price': ['NPR.375']}
+2021-05-30 17:39:11 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=3>
+{'Title': ['/books/jiwanopayogi-dharmik-kathaharu'], 'Author': ['Shanta Sinkhada'], 'Price': ['NPR.300']}
+2021-05-30 17:39:11 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=3>
+{'Title': ['/books/maharaj-dev-shamsher-ko-jiwani'], 'Author': ['Prakash A Raj'], 'Price': ['NPR.100']}
+2021-05-30 17:39:11 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=3>
+{'Title': ['/books/panch-prasiddha-baigyanikharuko-jiwani'], 'Author': ['Gopal Parajuli'], 'Price': ['NPR.50']}
+2021-05-30 17:39:11 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=3>
+{'Title': ['/books/jiwan-sangarsa-ra-youn'], 'Author': ['taslima nasrin'], 'Price': ['NPR.280']}
+2021-05-30 17:39:15 [scrapy] DEBUG: Crawled (200) <GET https://booksmandala.com/search?name=jiwan&page=4> (referer: https://booksmandala.com/search?name=jiwan&page=3)
+2021-05-30 17:39:15 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=4>
+{'Title': ['/books/safal-jiwanka-sutraharu'], 'Author': ['Pranitā Kshetrī'], 'Price': ['NPR.250']}
+2021-05-30 17:39:15 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=4>
+{'Title': ['/books/paribartankari-jiwandrishti'], 'Author': ['Dhir Bhandari'], 'Price': ['NPR.375']}
+2021-05-30 17:39:15 [scrapy] DEBUG: Scraped from <200 https://booksmandala.com/search?name=jiwan&page=4>
+{'Title': ['/books/nepali-prem-gita-1'], 'Author': ['Jiwan Silwal'], 'Price': ['NPR.400']}
+2021-05-30 17:39:15 [scrapy] INFO: Closing spider (finished)
+2021-05-30 17:39:15 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 3053,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 74206,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'elapsed_time_seconds': 8.17264,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 30, 11, 54, 15, 732352),
+ 'httpcompression/response_bytes': 704403,
+ 'httpcompression/response_count': 4,
+ 'item_scraped_count': 33,
+ 'log_count/DEBUG': 42,
+ 'log_count/INFO': 13,
+ 'log_count/WARNING': 90,
+ 'request_depth_max': 3,
+ 'response_received_count': 4,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2021, 5, 30, 11, 54, 7, 559712)}
+2021-05-30 17:39:15 [scrapy] INFO: Spider closed (finished)
